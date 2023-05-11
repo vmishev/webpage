@@ -1,0 +1,13 @@
+[en]
+title = "DOPEK"
+subtitle = "Your reliable partner"
+weight = 1
+languageName = "English"
+disablePathToLower = true
+
+[bg]
+title = "ДОПЕК"
+subtitle = "Вашият надежден партньор"
+weight = 2
+languageName = "Bulgarian"
+disablePathToLower = true

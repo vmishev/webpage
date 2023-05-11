@@ -1,0 +1,28 @@
+[[main]]
+name = "Начало"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Услуги"
+url = "/services"
+weight = 2
+
+[[main]]
+name = "За нас"
+url = "/about"
+weight = 3
+
+[[main]]
+name = "Контакти"
+url = "/contact"
+weight = 4
+
+[[footer]]
+  name = 'Начало'
+  pageRef = '/'
+  weight = 10
+[[footer]]
+  name = 'Контакти'
+  pageRef = '/contact'
+  weight = 20

@@ -1,0 +1,31 @@
+
+[label]
+icon = "/img/profilePic.ico"
+
+[profileMode]
+enabled = true
+imageUrl = "/img/profilePic.png"
+imageWidth = 250
+imageHeight = 250
+imageTitle = "LOGO"
+
+[[socialIcons]]
+name = "Facebook"
+url = "https://facebook.com"
+[[socialIcons]]
+name = "Instagram"
+url = "https://instagram.com"
+
+[[en.profileMode.buttons]]
+name = "Archive"
+url = "/archive"
+[[en.profileMode.buttons]]
+name = "Other"
+url = "https://github.com/"
+
+[[bg.profileMode.buttons]]
+name = "Архив"
+url = "/archive"
+[[bg.profileMode.buttons]]
+name = "Друго"
+url = "https://github.com/"

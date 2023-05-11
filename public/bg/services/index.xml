@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Услуги on ДОПЕК</title>
+    <link>http://dopekhold.com/bg/services/</link>
+    <description>Recent content in Услуги on ДОПЕК</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 May 2023 12:32:57 +0300</lastBuildDate><atom:link href="http://dopekhold.com/bg/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Оси</title>
+      <link>http://dopekhold.com/bg/services/shafts/</link>
+      <pubDate>Tue, 09 May 2023 19:27:04 +0300</pubDate>
+      
+      <guid>http://dopekhold.com/bg/services/shafts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Втулки</title>
+      <link>http://dopekhold.com/bg/services/bushings/</link>
+      <pubDate>Tue, 09 May 2023 19:13:29 +0300</pubDate>
+      
+      <guid>http://dopekhold.com/bg/services/bushings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

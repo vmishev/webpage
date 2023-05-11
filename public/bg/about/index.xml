@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>За Нас on ДОПЕК</title>
+    <link>http://dopekhold.com/bg/about/</link>
+    <description>Recent content in За Нас on ДОПЕК</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 May 2023 19:12:38 +0300</lastBuildDate><atom:link href="http://dopekhold.com/bg/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+baseURL = 'http://dopekhold.com/'
+languageCode = 'en-us'
+theme = 'PaperMod'
+defaultContentLanguage = "en"
+contentDir = "content"
